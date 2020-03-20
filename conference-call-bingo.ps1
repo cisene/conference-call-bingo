@@ -209,7 +209,14 @@ $Texts = @(
     "Sorry, I was having connection issues",
     "I think there's a lag",
     "Sorry, didn't catch that, can you repeat?",
-    "Automated announcer voice constantly interrupts speaker"
+    "Automated announcer voice constantly interrupts speaker",
+    "Sorry, I was on mute",
+    "Sorry, I was in another meeting",
+    "Sorry, I was on another phone call",
+    "Could you make me a presenter?",
+    "<partisipant name>, you are on mute",
+    "<feedback noise, echoes>",
+    "<ring tone> (unaswered)"
 )
 
 Function Scramble
