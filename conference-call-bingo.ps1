@@ -1,5 +1,6 @@
 #
-# Source: unknown
+# Source: Carl Sörqvist
+# Additional tweaks: Christopher Isene
 #
 #
 #
@@ -214,9 +215,19 @@ $Texts = @(
     "Sorry, I was in another meeting",
     "Sorry, I was on another phone call",
     "Could you make me a presenter?",
-    "<partisipant name>, you are on mute",
+    "<Announcer> Unknown participant just joined meeting",
     "<feedback noise, echoes>",
-    "<ring tone> (unaswered)"
+    "<ring tone> (unaswered)",
+    "You are the first to dial in",
+    "I can see you, can you see me?",
+    "<shock of seeing people in casual clothes>",
+    "<two people trying to talk at the same time>",
+    "Ok, you go first",
+    "<you spend whole meeting looking at yourself>",
+    "Slack-client",
+    "Skype-client",
+    "Zoom-client",
+    "Teams-client"
 )
 
 Function Scramble
